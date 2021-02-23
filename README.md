@@ -4,7 +4,9 @@ Crypto-update is a Javascript library for getting update on crypto in realtime.
 
 ## Installation
 
+```bash
 git clone https://github.com/jude4/crypto-live-update.git
+```
 
 ```bash
 pip install foobar
